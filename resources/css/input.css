@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* \resources\css\input.css
+
+npx @tailwindcss/cli -i ./resources/css/input.css -o ./resources/css/output.css --watch */
